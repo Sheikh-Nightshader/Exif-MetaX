@@ -22,11 +22,10 @@ The script works locally and never uploads images anywhere.
 ## Requirements
 Install dependencies:
 
-
-pip install pillow requests openlocationcode
-
-
 ```
+pip install pillow requests openlocationcode
+```
+
 ## Usage
 Run the script:
 
@@ -48,7 +47,7 @@ Model: SM-A525F
 Software: A525FXXU6EXX2
 ```
 
----
+
 
 ## Important Warning
 This tool is made **only for educational, forensic, and ethical cybersecurity use**.
@@ -60,7 +59,7 @@ This tool is made **only for educational, forensic, and ethical cybersecurity us
 
 Use responsibly.
 
-
+Sheikh Nightshader
 
 ## License
 MIT License
