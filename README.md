@@ -22,10 +22,11 @@ The script works locally and never uploads images anywhere.
 ## Requirements
 Install dependencies:
 
+
 pip install pillow requests openlocationcode
 
 
-
+```
 ## Usage
 Run the script:
 
