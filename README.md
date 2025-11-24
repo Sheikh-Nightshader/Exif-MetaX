@@ -23,7 +23,7 @@ The script works locally and never uploads images anywhere.
 Install dependencies:
 
 ```
-pip install pillow requests openlocationcode
+pip3 install -r requirements.txt
 ```
 
 ## Usage
