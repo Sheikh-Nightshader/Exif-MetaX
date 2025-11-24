@@ -16,7 +16,7 @@ BANNER = fr"""{CYAN}
 |  _| \ \/ / | |_    | |\/| |/ _ \| |/ _` |\  /
 | |___ >  <| |  _|   | |  | |  __/| | (_| |/  \
 |_____/_/\_\_|_|     |_|  |_|\___||_|\__,_/_/\_\
-{MAGENTA}  EXIF Metadata + GPS + Location - By Sheikh{RESET}
+{MAGENTA}  EXIF Metadata + GPS + Device Info - By Sheikh{RESET}
 """
 
 def get_exif(img_path):
