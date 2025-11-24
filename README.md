@@ -6,6 +6,9 @@ It also performs reverse geolocation lookups and can optionally save the output 
 
 The script works locally and never uploads images anywhere.
 
+##Screenshot
+![ExifMetaX Screenshot](exif.jpg)
+
 
 ## Features
 - Extract full EXIF metadata  
