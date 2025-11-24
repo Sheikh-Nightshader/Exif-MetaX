@@ -18,8 +18,6 @@ The script works locally and never uploads images anywhere.
 - Google Maps & OpenStreetMap direct links  
 - Save output to a `.txt` file  
 - Loop system to analyze multiple images  
-- Colored terminal output  
-- ASCII banner included  
 
 
 ## Requirements
